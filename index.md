@@ -1,0 +1,20 @@
+  
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Helicopter Ace</title>
+    <script src="libs/phaser.js"></script>
+    <script src="HelicopterAce.js"></script>
+    <style>
+		body {
+			padding: 0;
+			margin: 0;
+			background-color: white;
+		}
+	</style>
+</head>
+<body>
+    
+</body>
+</html>
